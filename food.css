@@ -65,6 +65,15 @@ em {
   color: #0E7003;
 }
 
+img {
+  max-width: 320px;
+}
+
+a,
+a:visited {
+  color: #5b0080;
+}
+
 /* Recipes */
 #recipes li {
   list-style: none;
