@@ -99,6 +99,10 @@ a, a:visited {
 
 /* Ingredients list */
 
+ol.recipe {
+    margin-left: 10px;
+}
+
 ol.recipe li ul li {
     font-size: 1.1rem;
     list-style-type: square;
