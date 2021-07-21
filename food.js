@@ -8,7 +8,7 @@ $(document).ready(() => {
 
 function addSection(title, cssClass, shouldReplacePrep) {
 
-    const items = $('li.' + cssClass);
+    const items = $(`li.${cssClass},span.${cssClass}`);
 
     if (items.length === 0) return;
 
