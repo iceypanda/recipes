@@ -1,5 +1,7 @@
 # Food
 
+- can put buy and prep classes on `li` or `span`
+
 ## Prep after em
 - `<em>lettuce</em> finely chopped`
 
