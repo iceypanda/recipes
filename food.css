@@ -119,7 +119,7 @@ ol.recipe {
     margin-left: 10px;
 }
 
-ol.recipe li ul li {
+ol.recipe li ul li, ul.recipe li ul li {
     font-size: 1.1rem;
     list-style-type: square;
     padding: 3px 0;
