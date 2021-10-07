@@ -22,7 +22,7 @@
 
 ### Serve with
 ```
-<h2 class="comments">Serve with</h2>
+<h2>Serve with</h2>
 <ul>
     <li></li>
 </ul>
@@ -30,7 +30,7 @@
 
 ### Notes
 ```
-<h2 class="comments">Notes</h2>
+<h2>Notes</h2>
 <ul>
     <li></li>
 </ul>

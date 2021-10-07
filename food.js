@@ -12,7 +12,7 @@ function addSection(title, cssClass, shouldReplacePrep) {
 
     if (items.length === 0) return;
 
-    const html = [`<h2 class="comments">${title}</h2><ul>`];
+    const html = [`<h2>${title}</h2><ul>`];
 
     items.each((i, e) => {
 
