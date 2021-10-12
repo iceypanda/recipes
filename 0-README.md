@@ -35,3 +35,17 @@
     <li></li>
 </ul>
 ```
+
+### Original recipe
+```
+<li><a href="" target="_blank">Original recipe</a></li>
+```
+
+### Nested list
+```
+<li>
+    <ul>
+        <li></li>
+    </ul>
+</li>
+```
