@@ -101,14 +101,14 @@ a, a:visited {
     color: #333;
 }
 
-/* Recipes */
+/* Recipes index */
 
-#recipes li {
+.recipes-index li {
     list-style: none;
     border: 2px solid white;
 }
 
-#recipes a {
+.recipes-index a {
     background: #eee;
     color: black;
     text-decoration: none;
@@ -116,17 +116,24 @@ a, a:visited {
     padding: 5px 0 5px 20px;
 }
 
-#recipes a:hover {
+.recipes-index a:hover {
     background: #f4d9ff;
+}
+
+.index .recipes-index li {
+    margin: 0;
+    border: 0 !important;
+    line-height: 2.2rem;
+    padding: 2px 0;
 }
 
 /* Ingredients list */
 
-ol.recipe {
+ol {
     margin-left: 10px;
 }
 
-ol.recipe li ul li, ul.recipe li ul li {
+ol li ul li, ul li ul li {
     font-size: 1.1rem;
     list-style-type: square;
     padding: 3px 0;
@@ -147,13 +154,4 @@ table.portions tr td:first-child {
 
 img {
     margin: 0 10px;
-}
-
-/* Recipes index */
-
-.index #recipes li {
-    margin: 0;
-    border: 0 !important;
-    line-height: 2.2rem;
-    padding: 2px 0;
 }
