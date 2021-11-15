@@ -20,6 +20,13 @@
 
 ## Templates
 
+### Recipe
+```
+<ol>
+    <li></li>
+</ol>
+```
+
 ### Serve with
 ```
 <h2>Serve with</h2>
