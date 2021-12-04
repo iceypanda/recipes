@@ -20,6 +20,8 @@
 
 ## Templates
 
+- [Template](./template.html)
+
 ### Recipe
 ```
 <ol>

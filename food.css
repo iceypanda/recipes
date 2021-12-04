@@ -36,6 +36,12 @@ h3 {
     padding: 10px;
 }
 
+h4 {
+    font-size: 1.1rem;
+    color: black;
+    padding: 10px;
+}
+
 p {
     padding: 10px;
 }
@@ -58,7 +64,7 @@ ol li, ul li {
 }
 
 .mt-4 {
-    margin-top: 1.5rem! important;
+    margin-top: 1.5rem ! important;
 }
 
 .mt-5 {
@@ -83,7 +89,7 @@ tr td:first-child {
 }
 
 hr {
-    margin: 5x 0px;
+    margin: 2rem 0 0 0;
     background: #e8e8e8;
     height: 2px;
     border: none;
