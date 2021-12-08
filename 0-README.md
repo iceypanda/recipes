@@ -1,22 +1,28 @@
 # Food
 
-- can put buy and prep classes on `li` or `span`
 
-## Prep after em
-- `<em>lettuce</em> finely chopped`
-
-## Prep in em
-- `tin of <em>chopped tomatoes</em>`
-
-## Ingredient
+## Ingredients
+- put within `em` tags
+- can put `buy` and `prep` classes on `li` or `span`
 
 ### Don't include "of"
 - `2 sticks <em>celery</em>`
 - `clove <em>garlic</em>`
 
 ### Quantity before em
-- cloves before em `cloves <em>garlic</em>`
-- tin before em `1 tin <em>chick peas</em>`
+- cloves before em  
+  `2 cloves <em>garlic</em>`
+- tin before em  
+  `1 tin <em>chick peas</em>`
+
+### Prep details after em  
+- `<em>lettuce</em> finely chopped`
+
+
+## Photos
+1. reduce size to 30%
+2. Export as jpeg, include jpg in saved filename
+
 
 ## Templates
 
@@ -58,3 +64,14 @@
     </ul>
 </li>
 ```
+
+
+
+        <h1>Apple sauce</h1>
+
+        <ol>
+            <li>Cook chopped apples with little water for 15 mins</li>
+            <li>Add sugar to sweeten</li>
+            <li>Add honey to sweeten and for taste</li>
+            <li>Add lemon juice (optional)</li>
+        </ol>
