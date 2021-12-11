@@ -21,7 +21,10 @@
 
 ## Photos
 1. reduce size to 30%
-2. Export as jpeg, include jpg in saved filename
+2. Export as jpeg, include jpg in saved filename     
+```
+<img src="images/" />
+```
 
 
 ## Templates
@@ -64,14 +67,3 @@
     </ul>
 </li>
 ```
-
-
-
-        <h1>Apple sauce</h1>
-
-        <ol>
-            <li>Cook chopped apples with little water for 15 mins</li>
-            <li>Add sugar to sweeten</li>
-            <li>Add honey to sweeten and for taste</li>
-            <li>Add lemon juice (optional)</li>
-        </ol>
