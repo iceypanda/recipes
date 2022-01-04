@@ -20,8 +20,10 @@
 
 
 ## Photos
-1. reduce size to 30%
-2. Export as jpeg, include jpg in saved filename     
+1. Tools > "Adjust Size..."
+   - reduce size to 30%
+2. File > "Export..." 
+   - as jpeg, include jpg in saved filename     
 ```
 <img src="images/" />
 ```
