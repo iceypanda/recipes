@@ -140,8 +140,11 @@ ol {
 }
 
 ol li ul li, ul li ul li {
-    font-size: 1.1rem;
     list-style-type: square;
+}
+
+ol li ul li, ul li ul li, ol li ol li {
+    font-size: 1.1rem;
     padding: 3px 0;
     margin-left: 20px;
 }
