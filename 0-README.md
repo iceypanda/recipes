@@ -42,7 +42,7 @@
 
 ### Serve with
 ```
-<h2>Serve with</h2>
+<h2>Serving</h2>
 <ul>
     <li></li>
 </ul>
