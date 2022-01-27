@@ -95,7 +95,7 @@ hr {
     border: none;
 }
 
-em {
+em, em a, em a:visited {
     color: #0E7003;
 }
 
