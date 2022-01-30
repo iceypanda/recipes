@@ -107,14 +107,16 @@ a, a:visited {
     color: #333;
 }
 
-/* Recipes index */
+/* Index */
 
-.recipes-index li {
-    list-style: none;
-    border: 2px solid white;
+.index li {
+    margin: 0;
+    border: 0 !important;
+    line-height: 2.2rem;
+    padding: 2px 0;
 }
 
-.recipes-index a {
+.index a {
     background: #eee;
     color: black;
     text-decoration: none;
@@ -122,15 +124,8 @@ a, a:visited {
     padding: 5px 0 5px 20px;
 }
 
-.recipes-index a:hover {
+.index a:hover {
     background: #f4d9ff;
-}
-
-.index .recipes-index li {
-    margin: 0;
-    border: 0 !important;
-    line-height: 2.2rem;
-    padding: 2px 0;
 }
 
 /* Ingredients list */
@@ -155,7 +150,7 @@ table.portions tr td:first-child {
     text-align: right;
 }
 
-#main small {
+small {
     margin-left: 17px;
     padding-top: 10px;
     display: block;
