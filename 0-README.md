@@ -18,54 +18,12 @@
 ### Prep details after em  
 - `<em>lettuce</em> finely chopped`
 
+---
 
-## Photos
-1. Tools > "Adjust Size..."
-   - reduce size to 30%
-2. File > "Export..." 
-   - as jpeg, include jpg in saved filename     
+## Importing photos
+1. Run `convert-recipe-photos.sh`
+2. Rename photos
+3. Run `move-recipe-photos.sh`
 ```
 <img src="images/" />
-```
-
-
-## Templates
-
-- [Template](./template.html)
-
-### Recipe
-```
-<ol>
-    <li></li>
-</ol>
-```
-
-### Serve with
-```
-<h2>Serving</h2>
-<ul>
-    <li></li>
-</ul>
-```
-
-### Notes
-```
-<h2>Notes</h2>
-<ul>
-    <li></li>
-</ul>
-```
-
-### Original recipe
-```
-<li><a href="" target="_blank">Original recipe</a></li>
-```
-
-### Nested list
-```
-<li>
-    <ul>
-        <li></li>
-    </ul>
-</li>
 ```
