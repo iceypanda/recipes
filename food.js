@@ -3,7 +3,7 @@
 $(document).ready(() => {
 
     addSection('Buy', 'buy', true);
-    addSection('Prep', 'prep', false);
+    // addSection('Prep', 'prep', false);
 });
 
 function addSection(title, cssClass, shouldReplacePrep) {
