@@ -46,7 +46,8 @@ p {
     padding: 10px;
 }
 
-ol li, ul li {
+ol li,
+ul li {
     margin: 0 0 0 35px;
     padding: 5px 0;
 }
@@ -95,7 +96,9 @@ hr {
     border: none;
 }
 
-em, em a, em a:visited {
+em,
+em a,
+em a:visited {
     color: #0E7003;
 }
 
@@ -103,7 +106,8 @@ img {
     max-width: 90vw;
 }
 
-a, a:visited {
+a,
+a:visited {
     color: #333;
 }
 
@@ -134,11 +138,14 @@ ol {
     margin-left: 10px;
 }
 
-ol li ul li, ul li ul li {
+ol li ul li,
+ul li ul li {
     list-style-type: square;
 }
 
-ol li ul li, ul li ul li, ol li ol li {
+ol li ul li,
+ul li ul li,
+ol li ol li {
     font-size: 1.1rem;
     padding: 3px 0;
     margin-left: 20px;
@@ -158,4 +165,27 @@ small {
 
 img {
     margin: 0 10px;
+}
+
+/* Fridge */
+.row {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    text-align: center;
+}
+
+.fridge h3 {
+    text-align: center;
+    flex: 3 1;
+}
+
+.fridge p {
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 5px 10px;
+}
+
+.fridge img {
+    max-width: 95%;
+    max-height: 200px;
 }
