@@ -170,7 +170,7 @@ img {
 /* Fridge */
 .row {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 200px);
+    grid-template-columns: repeat(auto-fill, 50%);
     text-align: center;
 }
 
@@ -188,4 +188,10 @@ img {
 .fridge img {
     max-width: 95%;
     max-height: 200px;
+}
+
+@media (min-width: 576px) {
+    .row {
+        grid-template-columns: repeat(auto-fill, 200px);
+    }
 }
