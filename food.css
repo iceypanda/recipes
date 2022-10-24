@@ -132,6 +132,10 @@ a:visited {
     background: #f4d9ff;
 }
 
+.index a:focus {
+    background: #f4d9ff;
+}
+
 /* Ingredients list */
 
 ol {
