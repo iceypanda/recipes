@@ -53,11 +53,11 @@ ul li {
 }
 
 .mt-1 {
-    margin-top: 0.25rem;
+    margin-top: 0.25rem ! important;
 }
 
 .mt-2 {
-    margin-top: 0.5rem;
+    margin-top: 0.5rem ! important;
 }
 
 .mt-3 {
@@ -70,6 +70,26 @@ ul li {
 
 .mt-5 {
     margin-top: 3rem !important;
+}
+
+.ms-1 {
+    margin-left: 0.25rem ! important;
+}
+
+.ms-2 {
+    margin-left: 0.5rem ! important;
+}
+
+.ms-3 {
+    margin-left: 1rem ! important;
+}
+
+.ms-4 {
+    margin-left: 1.5rem ! important;
+}
+
+.ms-5 {
+    margin-left: 3rem ! important;
 }
 
 td {
