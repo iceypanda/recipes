@@ -5,7 +5,7 @@
 - put within `em` tags
 - can put `buy` and `prep` classes on `li` or `span`
 
-### Don't include "of"
+### No "of"
 - `2 sticks <em>celery</em>`
 - `clove <em>garlic</em>`
 
@@ -15,12 +15,14 @@
 - tin before em  
   `1 tin <em>chick peas</em>`
 
-### Prep details after em  
+### Prep after em  
 - `<em>lettuce</em> finely chopped`
 
 ---
 
-## Importing photos
+## Photos
+
+### Importing photos
 1. Run `convert-recipe-photos.sh`
 2. Rename photos
 3. Run `move-recipe-photos.sh`

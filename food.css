@@ -206,7 +206,8 @@ img {
 .fridge p {
     text-align: center;
     font-size: 0.9rem;
-    padding: 5px 10px;
+    padding: 0 10px 15px 10px;
+    margin-top: 0;
 }
 
 .fridge img {
