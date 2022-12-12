@@ -1,13 +1,21 @@
 # Food
 
+## Notes
+- `room temperature` not `room temp`
 
 ## Ingredients
-- put within `em` tags
-- can put `buy` and `prep` classes on `li` or `span`
+- put ingredients within `em` tags
+- can put `buy` class on `li` or `span`
+- space before tsp / tbsp  
+  `&frac14; tsp`
+- include 1 as quantity  
+  `1 tin <em>chick peas</em>`
 
 ### No "of"
 - `2 sticks <em>celery</em>`
-- `clove <em>garlic</em>`
+- `1 clove <em>garlic</em>`
+- exception for lemon and lime  
+  `zest of 1 <em>lime</em>`
 
 ### Quantity before em
 - cloves before em  
