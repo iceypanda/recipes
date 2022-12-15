@@ -2,6 +2,7 @@
 
 ## Notes
 - `room temperature` not `room temp`
+- preheat directive at top of recipe, eg [Beef cobbler](beef-cobbler.html)</a>
 
 ## Ingredients
 - put ingredients within `em` tags
