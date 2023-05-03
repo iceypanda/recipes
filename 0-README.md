@@ -10,7 +10,7 @@
 - space before tsp / tbsp  
   `&frac14; tsp`
 - include 1 as quantity  
-  `1 tin <em>chick peas</em>`
+  `1 tin <em>chickpeas</em>`
 
 ### No "of"
 - `2 sticks <em>celery</em>`
@@ -22,7 +22,7 @@
 - cloves before em  
   `2 cloves <em>garlic</em>`
 - tin before em  
-  `1 tin <em>chick peas</em>`
+  `1 tin <em>chickpeas</em>`
 
 ### Prep after em  
 - `<em>lettuce</em> finely chopped`
