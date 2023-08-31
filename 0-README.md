@@ -27,6 +27,9 @@
 ### Prep after em  
 - `<em>lettuce</em> finely chopped`
 
+### Weight qualifier
+- `600g (after peeling) <em>potatoes</em>`
+
 ---
 
 ## Photos
