@@ -11,6 +11,8 @@
   `&frac14; tsp`
 - include 1 as quantity  
   `1 tin <em>chickpeas</em>`
+- start with lowercase letter  
+  `<li>pinch <em>salt</em></li>`
 
 ### No "of"
 - `2 sticks <em>celery</em>`
