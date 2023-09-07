@@ -32,6 +32,10 @@
 ### Weight qualifier
 - `600g (after peeling) <em>potatoes</em>`
 
+### Temperature then time
+- because set temperature first
+- `at 180&deg;C for 25 mins`
+
 ---
 
 ## Photos
