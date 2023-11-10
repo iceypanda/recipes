@@ -2,17 +2,29 @@
 
 ## Notes
 - `room temperature` not `room temp`
+- `remove heat` not `remove from heat`
 - preheat directive at top of recipe, eg [Beef cobbler](beef-cobbler.html)</a>
 
 ## Ingredients
-- put ingredients within `em` tags
-- can put `buy` class on `li` or `span`
-- space before tsp / tbsp  
-  `&frac14; tsp`
-- include 1 as quantity  
+- ingredients within `em` tags
+- `buy` class on `li` or `span`
+- include 1 as quantity for tins  
   `1 tin <em>chickpeas</em>`
 - start with lowercase letter  
   `<li>pinch <em>salt</em></li>`
+
+### Units: once after range
+- `1-2cm`
+- `20x30cm`
+
+### Units: no space
+- `2"`
+- `30cm`
+- `600g`
+
+### Space for spoon measurements
+- `1 tsp`
+- `&frac12; tbsp`
 
 ### No "of"
 - `2 sticks <em>celery</em>`
