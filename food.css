@@ -92,6 +92,11 @@ ul li {
     margin-left: 3rem ! important;
 }
 
+.fw-bold {
+    font-weight: bold;
+    ;
+}
+
 td {
     padding: 2px 5px;
     vertical-align: top;
