@@ -13,6 +13,8 @@
 - start with lowercase letter  
   `<li>pinch <em>salt</em></li>`
 
+## Units
+
 ### Units: once after range
 - `1-2cm`
 - `20x30cm`
@@ -21,6 +23,10 @@
 - `2"`
 - `30cm`
 - `600g`
+
+### Units: L for litre
+- l is consistent with ml but is too similar to 1
+- L easier to read
 
 ### Space for spoon measurements
 - `1 tsp`
