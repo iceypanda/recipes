@@ -13,7 +13,7 @@
 - start with lowercase letter  
   `<li>pinch <em>salt</em></li>`
 
-## Units
+## Units
 
 ### Units: once after range
 - `1-2cm`
