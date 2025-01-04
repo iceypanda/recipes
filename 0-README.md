@@ -5,13 +5,20 @@
 - `remove heat` not `remove from heat`
 - preheat directive at top of recipe, eg [Beef cobbler](beef-cobbler.html)</a>
 
+---
+
 ## Ingredients
-- ingredients within `em` tags
+- Ingredients within `em` tags
 - `buy` class on `li` or `span`
-- include 1 as quantity for tins  
+- Include 1 as quantity for tins  
   `1 tin <em>chickpeas</em>`
-- start with lowercase letter  
+
+### Ingredients: case
+- Start with lowercase letter  
   `<li>pinch <em>salt</em></li>`
+- Don't capitalise parmesan, cheddar, gruyère
+
+---
 
 ## Units
 
@@ -25,7 +32,7 @@
 - `600g`
 
 ### Units: L for litre
-- l is consistent with ml but is too similar to 1
+- l is consistent with ml but too similar to 1
 - L easier to read
 
 ### Space for spoon measurements
@@ -63,6 +70,6 @@
 1. Run `convert-recipe-photos.sh`
 2. Rename photos
 3. Run `move-recipe-photos.sh`
-```
+```html
 <img src="images/" />
 ```
