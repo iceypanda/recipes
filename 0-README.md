@@ -7,6 +7,11 @@
 
 ---
 
+## Instructions
+- "Add and cook" not "Add and heat" because cook more accurate than just heat
+
+---
+
 ## Ingredients
 - Ingredients within `em` tags
 - `buy` class on `li` or `span`
@@ -43,8 +48,8 @@
 - `2 sticks <em>celery</em>`
 - `1 clove <em>garlic</em>`
 - `1 tin <em>chickpeas</em>`
-- exception for lemon and lime  
-  `zest of 1 <em>lime</em>`
+- `zest 1 <em>lime</em>`
+- `juice &frac12; <em>lemon</em>`
 
 ### Quantity before em
 - cloves before em  
