@@ -1,14 +1,15 @@
 # Food
 
-## Notes
+## Language
 - `room temperature` not `room temp`
 - `remove heat` not `remove from heat`
-- preheat directive at top of recipe, eg [Beef cobbler](beef-cobbler.html)</a>
+- `till` not `until`
 
 ---
 
 ## Instructions
-- "Add and cook" not "Add and heat" because cook more accurate than just heat
+- `Add and cook` not `Add and heat`, cook more accurate than just heat
+- Preheat directive at top of recipe, eg [Beef cobbler](beef-cobbler.html)
 
 ---
 
