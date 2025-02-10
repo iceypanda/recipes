@@ -14,6 +14,7 @@
 ---
 
 ## Ingredients
+- In order they are added then in order of amount
 - Ingredients within `em` tags
 - `buy` class on `li` or `span`
 - Include 1 as quantity for tins  
