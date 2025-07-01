@@ -52,6 +52,7 @@
 - `1 tin <em>chickpeas</em>`
 - `zest 1 <em>lime</em>`
 - `juice &frac12; <em>lemon</em>`
+- `squeeze <em>lemon juice</em>`
 
 ### Quantity before em
 - cloves before em  
